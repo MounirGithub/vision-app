@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1.larger{
+  font-size: 110px;
+}
+
+h1.larg{
+  font-size: 70px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.margin {
+  padding: 20px 20px 20px 20px;
+}
+
+
